@@ -1,4 +1,4 @@
-MOJIBAKE FIXER - Windows (no Python required)
+MOJIBAKE FIXER - Windows
 =============================================
 
 1. Extract this ZIP to a folder.
